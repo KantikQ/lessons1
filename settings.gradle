@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "lessons1"
 include ':app'
 include ':tapelayout'
+include ':control_lesson1'
+include ':myapplication'
